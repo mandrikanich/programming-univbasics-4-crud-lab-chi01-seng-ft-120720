@@ -30,9 +30,9 @@ def remove_element_from_start_of_array(favorite_colors)
   
 end
 
-
-  
-enddef retrieve_element_from_index(favorite_colors)
+def retrieve_element_from_index(favorite_colors)
   favorite_colors [1]
+  
+end
 
 
