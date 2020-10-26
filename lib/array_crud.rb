@@ -31,7 +31,7 @@ def remove_element_from_start_of_array(favorite_colors)
 end
 
 def retrieve_element_from_index(favorite_colors)
-  favorite_colors [1]
+  favorite_colors[1]
   
 end
 
