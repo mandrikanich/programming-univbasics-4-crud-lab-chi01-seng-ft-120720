@@ -41,7 +41,7 @@ def retrieve_first_element_from_array(favorite_colors)
 end
 
 def retrieve_last_element_from_array(favorite_colors)
-  favorite_colors [1]
+  favorite_colors [4]
   
 end
 
