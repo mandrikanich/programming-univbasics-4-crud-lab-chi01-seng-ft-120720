@@ -35,8 +35,8 @@ def retrieve_element_from_index(favorite_colors, index_number)
   
 end
 
-def retrieve_first_element_from_array(favorite_colors)
-  favorite_colors ["red"]
+def retrieve_first_element_from_array(favorite_colors, index_number)
+  favorite_colors [1]
   
 end
 
