@@ -25,8 +25,8 @@ def remove_element_from_end_of_array(favorite_colors)
   
 end
 
-def remove_element_from_start_of_array(element)
-  favorite_colors.unshift
+def remove_element_from_start_of_array(favorite_colors)
+  favorite_colors.shift
   
 end
 
