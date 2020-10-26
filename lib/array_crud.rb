@@ -45,6 +45,10 @@ def retrieve_last_element_from_array(favorite_colors)
   
 end
 
+def update_element_from_index(favorite_colors, index_number, element)
+  favorite_colors [2] = element
+
+end
 
 
 
